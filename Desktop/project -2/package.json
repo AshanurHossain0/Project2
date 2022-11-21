@@ -1,0 +1,16 @@
+{
+  "name": "project--2",
+  "version": "1.0.0",
+  "description": "collage intership program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shyam gupta, shubham ,ayush,yashwant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
